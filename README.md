@@ -1,5 +1,4 @@
 # hello-world
-Just following the Github tutorial.
 
 Ladies and gentlemen, my first-ever commit: a self-aware sentence!
 I'll have so much more to say, so much more to show once I start
